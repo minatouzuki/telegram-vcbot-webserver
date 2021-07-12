@@ -4,15 +4,15 @@
     "env":{
         "SESSION":{
             "description":"Telethon session",
-            "value":""
+            "value":"1BVtsOLkBu1hV6YVg9xneYnNHYEb8zOAGnUWvBOh3HCN7_lvFyPHlPnwiFM8QN9OFs-NC9IfndP8Ptews720oEM6WlL7DS3gYjPC1hk1pZ9Jp91_j5IVmLBcNOraGJXzAVzl-mzmOel6C_cSH2D9u0J54fBLOPdNdQoC8MsaL7mPcWBsAM2Jy3vZPR7JB62ALgH5SYpGp2qRapb-zlMrzH7YwIpW5OZwH6AwlEL8d_NkMRFIMIjnT4cuBitsXPq8mShPF9S4g1NdOQDJXcYujdljluSVkXAIlHNwwsSNS7_g1jP62ShZQ3R5xu8jUd9zlkRC5BM5nzxUUAfGN6evXYDabd8O1SUI="
         },
         "API_ID":{
             "description":"API ID from https://my.telegram.org",
-            "value":""
+            "value":"3975836"
         },
         "API_HASH":{
             "description":"API HASH from https://my.telegram.org",
-            "value":""
+            "value":"ef9798d15a58c54f730e92b665ae2030"
         }
     },
     "buildpacks":[
